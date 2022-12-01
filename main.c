@@ -23,8 +23,8 @@ int main(int argc, char *argv[]){
     int nbLignes=parseContenu(dict, content, sizeFile);
     fclose(fichier);
     char answer[20]={0};
-    int indice;
     srand(time(NULL));
+    printf("it worked!");
     while(1){
         int indice=rand()%nbLignes;
         //printf("%d", indice);

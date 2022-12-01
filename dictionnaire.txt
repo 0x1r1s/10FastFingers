@@ -1,6 +1,0 @@
-avoir
-beta
-camion
-famille
-guerrier
-hash
